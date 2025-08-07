@@ -84,7 +84,4 @@ Los archivos generados estarán en la carpeta dist y podrás desplegarlos en cua
 ## 🤝 Contribuciones
 Las contribuciones son bienvenidas. Si encuentras algún problema o tienes sugerencias, no dudes en abrir un issue o enviar un pull request.
 
-## 📄 Licencia
-Este proyecto está bajo la Licencia MIT - consulta el archivo LICENSE para más detalles.
-
 ⭐ Desarrollado con ☕&🎧 por Xander
